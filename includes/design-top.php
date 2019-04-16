@@ -1,3 +1,3 @@
 <div class="jumbotron">
-	<h1>Hello there!</h1>
+	<h1>Php Base!</h1>
 </div>
